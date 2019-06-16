@@ -1,0 +1,8 @@
+{
+    "name": "AnimeJS_DEMO",
+    "version": "1.0.0",
+    "keywords": ["util", "functional", "server", "client", "browser"],
+    "author": "Christo Combrink",
+    "contributors": [],
+    "dependencies": {}
+}
